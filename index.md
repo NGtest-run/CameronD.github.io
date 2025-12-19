@@ -2,7 +2,7 @@
 
 Welcome — here are some projects and presentations.
 
-## Project A
+## Marketing Analysis Project
 ![Project A screenshot](images/projectA-screenshot.png)
 
 [Download Project A slides (PDF)](files/projectA-presentation.pdf)
