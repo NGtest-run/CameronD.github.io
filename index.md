@@ -7,7 +7,7 @@ Welcome — here are some projects and presentations.
 
 [Download Project slides (PDF)](/files/Marketing-Analysis-Presentation.pdf)
 [Download Dashboard (PDF)](/files/Marketing-Analysis-Dashbaord.pdf)
-
+<iframe src="files/Marketing-Analysis-Presentation.pdf" width="900" height="600" class="pdf-embed"></iframe>
 ---
 
 ## Project B
