@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Data Analytics Portfolio of Cameron Dace</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body { font-family: system-ui, Arial, sans-serif; padding: 1rem; max-width: 980px; margin: auto; }
+      h1 { margin-bottom: 0.25rem; }
+      .frame { margin-top: 1rem; border: 1px solid #ddd; padding: 0.5rem; }
+      img.project-thumb { max-width: 100%; height: auto; display: block; margin: 0.5rem 0; border: 1px solid #e6e6e6; }
+      .pdf-embed { border: 1px solid #ddd; margin-top: 0.75rem; }
+      a { color: #0366d6; }
+    </style>
+  </head>
+  <body>
+    <h1>My Project Portfolio</h1>
+
+    <section id="marketing-analysis">
+      <h2>Marketing Analysis Project</h2>
+
+      <!-- Thumbnail / screenshot -->
+      <img class="project-thumb" src="Images/Main%20Image.png" alt="Marketing Analysis screenshot">
+
+      <!-- Download links (relative paths) -->
+      <p>
+        <a href="Files/Marketing%20Analysis%20Presentation.pdf" target="_blank" rel="noopener">Download Project slides (PDF)</a><br>
+        <a href="Files/Marketing%20Analysis%20Dashboard.pdf" target="_blank" rel="noopener">Download Dashboard (PDF)</a>
+      </p>
+
+      <!-- Inline PDF viewer (works when served via GitHub Pages) -->
+      <iframe class="pdf-embed" src="Files/Marketing%20Analysis%20Presentation.pdf" width="900" height="600"></iframe>
+    </section>
+
+    <hr>
+
+    <p>Embedded presentation below (hosted on Google Slides):</p>
+    <div class="frame">
+      <!-- Replace EMBED_URL with the Google Slides / Office embed link if you have it -->
+      <iframe src="EMBED_URL" width="960" height="569" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+    </div>
+
+    <h2>Other files</h2>
+    <ul>
+      <li><a href="Files/Marketing%20Analysis%20Presentation.pdf">Marketing Analysis Presentation (PDF)</a></li>
+      <li><a href="Images/Main%20Image.png">Marketing Analysis screenshot</a></li>
+    </ul>
+  </body>
+</html>
