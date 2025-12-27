@@ -4,7 +4,7 @@ Welcome — here are some project slides and screenshots.
 
 ## Marketing Analysis Project
 
-![Marketing Analysis screenshot](Images/Main%20Image.png)
+![Marketing Analysis screenshot](Images/Marketing%20Analysis.png)
 
 [Download Project slides (PDF)](Files/Marketing%20Analysis%20Presentation.pdf)  
 [Download Dashboard (PDF)](Files/Marketing%20Analysis%20Dashboard.pdf)
