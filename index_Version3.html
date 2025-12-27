@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Cameron Dace — Analytics Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body { font-family: system-ui, Arial, sans-serif; padding: 1rem; max-width: 980px; margin: auto; line-height:1.5; color:#222; }
+      header { margin-bottom: 1.25rem; }
+      h1 { color:#0b63c6; margin:0 0 .25rem 0; }
+      .project { border-top:1px solid #eee; padding-top:1rem; margin-top:1rem; }
+      .thumb { max-width:420px; width:100%; height:auto; border:1px solid #e6e6e6; display:block; margin-bottom:.5rem; }
+      .links a { display:inline-block; margin-right:1rem; color:#0366d6; text-decoration:none; }
+      .links a:hover { text-decoration:underline; }
+      .pdf-embed { width:100%; max-width:900px; height:600px; border:1px solid #ddd; margin-top:.75rem; }
+      footer { margin-top:2rem; color:#666; font-size:.9rem; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Cameron D. — Analytics Portfolio</h1>
+      <p>Repository for analytical portfolio projects. Click a link to open files or view the embedded presentation below.</p>
+    </header>
+
+    <section class="project" id="marketing-analysis">
+      <h2>Marketing Analysis</h2>
+
+      <!-- thumbnail (uses exact path from your repo) -->
+      <img class="thumb" src="Images/Main%20Image.png" alt="Marketing Analysis screenshot">
+
+      <div class="links">
+        <!-- links use the actual paths found in your repo (spaces URL-encoded as %20) -->
+        <a href="Files/Marketing%20Analysis%20Presentation.pdf" target="_blank" rel="noopener">Open slides (PDF)</a>
+        <a href="Files/Marketing%20Analysis%20Dashboard.pdf" target="_blank" rel="noopener">Open dashboard (PDF)</a>
+        <a href="Marketing%20Analysis/Marketing%20Analysis.pptx" target="_blank" rel="noopener">Download PPTX</a>
+      </div>
+
+      <!-- inline PDF viewer (works on GitHub Pages) -->
+      <iframe class="pdf-embed" src="Files/Marketing%20Analysis%20Presentation.pdf" title="Marketing Analysis Presentation"></iframe>
+    </section>
+
+    <footer>
+      Tip: If a file doesn't open, wait ~1–2 minutes after committing for Pages to rebuild, or open the file directly from the repository.
+    </footer>
+  </body>
+</html>
