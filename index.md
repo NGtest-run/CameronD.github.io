@@ -11,7 +11,15 @@ Welcome — here are some project slides and screenshots.
 
 ---
 
-## Project B
+## Advance Visualizations with Tableau
+
+![Project B slide 1](images/projectB-slide1.png)
+
+[Project B slides (PDF)](files/projectB-slides.pdf)
+
+---
+
+## Cinema's Highest Grossing Movies via Web Scraping
 
 ![Project B slide 1](images/projectB-slide1.png)
 
