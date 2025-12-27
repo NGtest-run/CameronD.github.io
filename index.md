@@ -13,14 +13,14 @@ Welcome — here are some project slides and screenshots.
 
 ## Advance Visualizations with Tableau
 
-![Project B slide 1](images/projectB-slide1.png)
+![Dashboard Screenshot](Images/Tableau%20House%20Sales.png)
 
-[Project B slides (PDF)](files/projectB-slides.pdf)
+[Link to Dashboard]([files/projectB-slides.pdf](https://public.tableau.com/views/KingCountyHouseSalesDashbaord_17662317851190/KingCountyHouseSales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
 ## Cinema's Highest Grossing Movies via Web Scraping
 
-![Project B slide 1](images/projectB-slide1.png)
+![Dashboard Screenshot](Images/Looker%20Movies.png)
 
-[Project B slides (PDF)](files/projectB-slides.pdf)
+[Link to Dashboard]([files/projectB-slides.pdf](https://lookerstudio.google.com/reporting/3c1c73a8-468c-4711-9118-72968cb3c8ee))
